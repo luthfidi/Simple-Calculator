@@ -15,12 +15,6 @@ html {
   background: linear-gradient(45deg, #3a3a3a, #1a1a1a);
   z-index: -1;
 }
-.calculator-header {
-  color: #fff;
-  text-align: center;
-  margin-bottom: 30px;
-  font-size: 24px;
-}
 .stars {
   position: absolute;
   top: 0;
@@ -59,6 +53,12 @@ html {
   width: 300px;
   max-width: 90%;
   animation: fadeIn 1s;
+}
+.calculator-header {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 24px;
 }
 #display {
   width: 100%;
